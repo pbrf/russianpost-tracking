@@ -11,3 +11,5 @@ try {
 } catch(RussianPostException $e) {
   die('Something went wrong: ' . $e->getMessage() . "\n");
 }
+
+?>
