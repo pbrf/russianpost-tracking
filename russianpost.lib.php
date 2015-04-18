@@ -250,3 +250,4 @@ class RussianPostArgumentException extends RussianPostException { }
 class RussianPostSystemException   extends RussianPostException { }
 class RussianPostChannelException  extends RussianPostException { }
 class RussianPostDataException     extends RussianPostException { }
+
